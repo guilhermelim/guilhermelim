@@ -34,8 +34,8 @@
   <a href = "mailto:guilhermem.lima@outlook.com"><img src="https://img.shields.io/badge/-Outlook-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/guilhermelim" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://wa.me/5585992704305" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
-
-[![Guilherme Lim Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=guilhermelim&bg_color=0D1117&color=bd93f9&line=ff79c6&point=FFFFFF&hide_border=true&custom_title=Guilherme%20Lim%20Contribution%20Graph)](https://github.com/guilhermelim)
+    
+[![Guilherme Lim Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=guilhermelim&bg_color=0D1117&color=bd93f9&line=ff79c6&point=FFFFFF&hide_border=true&title_color=ff79c6&custom_title=Guilherme%20Lim%20Contribution%20Graph)](https://github.com/guilhermelim)
 
 <!-- Gere novos Snake Animation em https://platane.github.io/snk/ -->
 ![Snake animation](https://github.com/guilhermelim/guilhermelim/blob/output/github-contribution-grid-snake.svg)
