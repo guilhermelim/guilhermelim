@@ -35,7 +35,7 @@
   <a href="https://www.linkedin.com/in/guilhermelim" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://wa.me/5585992704305" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
     
-[![Guilherme Lim github activity graph](https://activity-graph.herokuapp.com/graph?username=guilhermelim&bg_color=0D1117&color=bd93f9&line=ff79c6&point=FFFFFF&hide_border=true&title_color=ff79c6&custom_title=Guilherme%20Lim%20Contribution%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Guilherme Lim github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=guilhermelim&bg_color=0D1117&color=bd93f9&line=ff79c6&point=FFFFFF&hide_border=true&title_color=ff79c6&custom_title=Guilherme%20Lim%20Contribution%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!-- Gere novos Snake Animation em https://platane.github.io/snk/ -->
 ![Snake animation](https://github.com/guilhermelim/guilhermelim/blob/output/github-contribution-grid-snake.svg)
